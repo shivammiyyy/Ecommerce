@@ -1,4 +1,4 @@
-# Fusion Electronics: A MERN-Stack E-commerce Application
+# Fusion: A MERN-Stack E-commerce Application
 
 Deployment Link : [https://ecommerce-zeta-vert.vercel.app/]
 
