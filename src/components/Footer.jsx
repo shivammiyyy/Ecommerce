@@ -82,7 +82,7 @@ const Footer = () => {
             paddingTop: '1rem',
           }}
         >
-          <Typography variant="body2">© {new Date().getFullYear()} Fusion Electronics. All rights reserved.</Typography>
+          <Typography variant="body2">© {new Date().getFullYear()} ELECTRONIC SHOP. All rights reserved.</Typography>
         </Box>
       </Container>
     </Box>

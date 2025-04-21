@@ -1,8 +1,8 @@
 {
   "name": "fusion-electronics-backend",
-  "displayName": "Fusion Electronics Backend",
+  "displayName": "ELECTRONIC SHOP Backend",
   "version": "1.1.0",
-  "description": "A backend server for Fusion Electronics - a MERN stack e-commerce website",
+  "description": "A backend server for ELECTRONIC SHOP - a MERN stack e-commerce website",
   "main": "index.js",
   "scripts": {
     "start": "nodemon --exec 'cd seed && node productSeeds.js dev && cd .. && node index.js'",
